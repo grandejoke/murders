@@ -1,0 +1,11 @@
+download-data.R
+  downloads the data from gitlab
+  saves it in the 'data' folder
+
+wrangle-data
+  adds vectors 'region' and 'rate' to the data
+  saves the result in the 'rda' folder
+
+analysis
+  creates a bar plot
+  saves the bar plot in the 'figs' folder
